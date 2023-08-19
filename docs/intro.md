@@ -2,46 +2,31 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Welcome to NFT Horizon! 🚀🎨
 
-Let's discover **Docusaurus in less than 5 minutes**.
+🌟 Dive into the exhilarating world of NFTs with NFT Horizon! 🌈✨
 
-## Getting Started
+Are you ready to explore the endless possibilities of the NFT marketplace? Look no further – you've just entered the gateway to NFT Horizon's comprehensive documentation.
 
-Get started by **creating a new site**.
+📖 Whether you're an artist, collector, or simply curious about NFTs, we've got you covered!
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+## 🚀 Your NFT Journey Starts Here
 
-### What you'll need
+Welcome aboard, adventurer! NFT Horizon's documentation is your passport to navigating the dynamic realm of NFTs. From minting and collecting to understanding blockchain basics, we've crafted each guide to be your compass.
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+## 🌐 What You'll Find
 
-## Generate a new site
+- 🎨 **Creating and Minting:** Unleash your creativity as you learn to mint your unique digital assets on the blockchain.
+- 🛒 **Navigating the Marketplace:** Discover the treasures within the NFT Horizon marketplace.
+- 💡 **Blockchain Basics:** New to the blockchain world? We've got you covered with the essentials.
+- 📈 **Managing Your Portfolio:** Keep track of your NFT holdings and trends like a pro.
+- 👩‍💻 **Developer Insights:** If you're a developer, we have resources to help you integrate NFTs effectively.
 
-Generate a new Docusaurus site using the **classic template**.
+## 🌄 Join the Journey
 
-The classic template will automatically be added to your project after you run the command:
+NFTs have redefined digital ownership and expression. Our documentation opens the door to endless creative horizons.
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+Let's shape the future of digital art, one NFT at a time. Join us in this exciting journey of exploration and creation!
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+start your NFT adventure today! 🎉🌟🚀
 
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.

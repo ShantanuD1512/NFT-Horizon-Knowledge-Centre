@@ -4,32 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'NFT Minting and Listing 🎨',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Transform your creativity into digital assets! Easily mint and list your unique artworks as NFTs on our platform. 🚀
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Secure Wallet Integration 🔐',
+    Svg: require('@site/static/img/svgviewer-output(3).svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Your digital treasure deserves the best protection. Seamlessly connect secure wallets for safe transactions and ownership control. 💼
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Real-time Bidding and Auctions 🏁',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Ready to compete for the extraordinary? Engage in thrilling real-time auctions, where you can bid and win exclusive NFTs. ⚡️
       </>
     ),
   },
