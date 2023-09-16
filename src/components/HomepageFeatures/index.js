@@ -23,7 +23,7 @@ const FeatureList = [
   },
   {
     title: 'Real-time Bidding and Auctions 🏁',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/.svg').default,
     description: (
       <>
         Ready to compete for the extraordinary? Engage in thrilling real-time auctions, where you can bid and win exclusive NFTs. ⚡️
