@@ -4,29 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'NFT Minting and Listing 🎨',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: "Smart Contract 📝",
+    Svg: require('@site/static/img/Smart_Contract.svg').default,
     description: (
       <>
-        Transform your creativity into digital assets! Easily mint and list your unique artworks as NFTs on our platform. 🚀
+        The maestro behind NFT magic, ensuring trust and transparency in every blockchain performance.
       </>
     ),
   },
   {
     title: 'Secure Wallet Integration 🔐',
-    Svg: require('@site/static/img/svgviewer-output(3).svg').default,
+    Svg: require('@site/static/img/Secure Wallet.svg').default,
     description: (
       <>
-        Your digital treasure deserves the best protection. Seamlessly connect secure wallets for safe transactions and ownership control. 💼
+        Your treasure chest for digital assets, securely integrated into every NFT journey.
       </>
     ),
   },
   {
-    title: 'Real-time Bidding and Auctions 🏁',
-    Svg: require('@site/static/img/.svg').default,
+    title: 'Search & Discovery 🔍',
+    Svg: require('@site/static/img/Search_Discovery.svg').default,
     description: (
       <>
-        Ready to compete for the extraordinary? Engage in thrilling real-time auctions, where you can bid and win exclusive NFTs. ⚡️
+        Unearth the extraordinary with our NFT compass, revealing hidden gems in the vast digital art terrain.
       </>
     ),
   },
