@@ -3,7 +3,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'NFT Horizon',
+  title: 'NFT Horizon Docs',
   tagline: 'Discover, Collect, Flourish',
   favicon: 'img/favicon.ico',
 
@@ -12,7 +12,7 @@ const config = {
   baseUrl: '/',
 
   organizationName: 'ShantanuD1512', // GitHub user name.
-  projectName: 'NFTHorizon', //  repo name.
+  projectName: 'NFTHorizon_Docs', //  repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -51,7 +51,7 @@ const config = {
       
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'NFT Horizon',
+        title: 'NFT Horizon Docs',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
