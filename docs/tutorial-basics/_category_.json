@@ -1,8 +1,8 @@
 {
-  "label": "Tutorial - Basics",
+  "label": "NFT Horizon-Documentation",
   "position": 2,
   "link": {
     "type": "generated-index",
-    "description": "5 minutes to learn the most important Docusaurus concepts."
+    "description": "Learn the basics of Blockchain and NFT Concepts."
   }
 }
