@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Welcome to NFT Horizon! 🚀🎨
+# Welcome to NFT Horizon docs
 
 🌟 Dive into the exhilarating world of NFTs with NFT Horizon! 🌈✨
 
